@@ -1,0 +1,4 @@
+"Billing_Code","Project_Name","Client","Industry","Technologies","Dollar_Amount","Project_Scope"
+"PC-001","TX Facial Rec","TX Sheriff's Dept","Law Enforcement","Python;OpenCV","500000","500,000 images, 10 regions"
+"PC-002","Crowd Analysis","NYC Police","Law Enforcement","Python;PyTorch","750000","20 events, 200K image frames"
+"PC-003","ID Verification","Federal DHS","Government","Python;Flask","200000","5 states, 50K users"

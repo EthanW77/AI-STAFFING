@@ -1,0 +1,4 @@
+"Billing_Code","Deliverable","Date_Completed","Topic_Area","Technologies","Client","Codebase"
+"PC-001","Facial Rec API","07/15/2025","Computer Vision","Python;OpenCV","TX Sheriff's Dept","cv-api"
+"PC-002","Crowd Monitor App","06/01/2025","Surveillance","Python;PyTorch","NYC Police","crowd-app"
+"PC-003","User Verification","03/01/2025","Identification","Python;Flask","Federal DHS","id-check"

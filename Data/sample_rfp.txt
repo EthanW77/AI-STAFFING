@@ -1,0 +1,37 @@
+REQUEST FOR INFORMATION (RFI)
+Texas Department of Public Safety
+Project: Statewide Facial Recognition System Enhancement
+
+PROJECT OVERVIEW:
+The Texas Department of Public Safety is seeking qualified vendors to provide consulting and development services for enhancing our statewide facial recognition system.
+
+REQUIRED QUALIFICATIONS:
+
+Technical Skills:
+- Computer Vision expertise (OpenCV, TensorFlow, PyTorch)
+- Python development (5+ years)
+- Experience with facial recognition algorithms
+- Cloud infrastructure (AWS, Azure)
+- Database management (SQL, NoSQL)
+- API development and integration
+
+Domain Experience:
+- Law enforcement technology projects
+- Government/Federal client experience
+- Security clearance capability
+- Texas state projects preferred
+
+Team Requirements:
+- 1 Technical Lead (10+ years experience)
+- 2-3 Senior Engineers (7+ years experience)
+- 1 Project Manager (PMP certified)
+- All team members must be US citizens
+- On-site presence in Austin, TX required
+
+PROJECT SCOPE:
+- Duration: 18 months
+- Budget: $2.5M
+- Start Date: Q1 2026
+- Deliverables: Enhanced facial recognition API, training materials, documentation
+
+SUBMISSION DEADLINE: December 15, 2025

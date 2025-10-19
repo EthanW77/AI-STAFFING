@@ -1,0 +1,18 @@
+Requirement_Type,Requirement,Priority,Quantity
+Technical_Skill,Computer Vision,Critical,3
+Technical_Skill,Python,Critical,4
+Technical_Skill,OpenCV,Critical,2
+Technical_Skill,TensorFlow,High,2
+Technical_Skill,PyTorch,High,1
+Technical_Skill,AWS,High,2
+Technical_Skill,SQL,Medium,2
+Domain_Experience,Law Enforcement,Critical,4
+Domain_Experience,Government,Critical,4
+Domain_Experience,Texas Projects,High,2
+Role,Technical Lead,Critical,1
+Role,Senior Engineer,Critical,3
+Role,Project Manager,Critical,1
+Location,Austin TX,High,4
+Location,Texas,Critical,4
+Certification,PMP,Medium,1
+Certification,Security Clearance,High,2
